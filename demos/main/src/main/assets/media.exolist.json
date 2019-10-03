@@ -372,12 +372,12 @@
     "name": "Misc",
     "samples": [
       {
-        "name": "Dizzy (MP4)",
-        "uri": "https://html5demos.com/assets/dizzy.mp4"
+        "name": "Fail m4a from google storage",
+        "uri": "https://storage.googleapis.com/api.wave.com.tw/v1/playbacks/956689de-6b42-461e-b1ec-aba470d6c725/live_ef0ad394-8826-4aea-9421-439501068140_Rw2jK.mp4"
       },
       {
-        "name": "Apple AAC 10s",
-        "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear0/fileSequence0.aac"
+        "name": "Fail m4a from cloudflare",
+        "uri": "https://odroid-web.ksc91u.info/live_ef0ad394-8826-4aea-9421-439501068140_Rw2jK.mp4"
       },
       {
         "name": "Apple TS 10s",
